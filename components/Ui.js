@@ -109,8 +109,8 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-start',
     alignItems: 'flex-start',
   },
-  title: {fontSize: 20, fontWeight: 'bold'},
-  info: {color: 'gray', fontSize: 14},
+  title: {fontSize: 16, fontWeight: 'bold'},
+  info: {color: 'gray', fontSize: 12},
   menuleft: {
     right: 0,
     top: 2,
